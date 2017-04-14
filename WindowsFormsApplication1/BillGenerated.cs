@@ -60,6 +60,11 @@ namespace WindowsFormsApplication1
 
             MyConn2.Close();
         }
+
+        private void BillGenerated_Load_1(object sender, EventArgs e)
+        {
+
+        }
     }
 
       

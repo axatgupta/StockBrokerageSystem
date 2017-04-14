@@ -144,6 +144,7 @@
             this.Controls.Add(this.label13);
             this.Controls.Add(this.label12);
             this.Name = "BillGenerated";
+            this.Load += new System.EventHandler(this.BillGenerated_Load_1);
             this.ResumeLayout(false);
             this.PerformLayout();
 
